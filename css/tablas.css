@@ -1,0 +1,46 @@
+#main-container{
+	margin:50px auto;
+	width: 600px;
+}
+table{
+	
+	border: 3px solid #FBFBFB;
+	text-align: left;
+	width: 100%;
+	font-weight: bold;
+}
+
+ td {
+  padding: 5px;
+  font-color: white;
+  
+}
+input[type=reset]{
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: #A93226;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+input[type=submit]{
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: #A93226;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+input[type=file]{
+  padding: 12px 20px;
+  margin: 8px 1;
+  box-sizing: border-box;
+  
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
